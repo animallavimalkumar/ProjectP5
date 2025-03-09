@@ -2,8 +2,8 @@
 	path = BackProj
 	url = https://github.com/animallavimalkumar/Project_P5
 [submodule "tool"]
-    path = tool
-    url = https://github.com/animallavimalkumar/Project_P5
+	path = tool
+	url = https://github.com/animallavimalkumar/Project_Management_Tool
 [submodule "tool/Sample"]
     path = tool/Sample
     url = https://github.com/animallavimalkumar/Project_P5  # Adjust this URL if necessary
