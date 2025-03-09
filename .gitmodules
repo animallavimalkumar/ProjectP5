@@ -1,0 +1,10 @@
+[submodule "BackProj"]
+	path = BackProj
+	url = https://github.com/animallavimalkumar/Project_P5
+[submodule "tool"]
+    path = tool
+    url = https://github.com/animallavimalkumar/Project_P5
+[submodule "tool/Sample"]
+    path = tool/Sample
+    url = https://github.com/animallavimalkumar/Project_P5  # Adjust this URL if necessary
+
